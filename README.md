@@ -4,5 +4,7 @@
 - 安装python环境(此步不会请百度）
 - 第二布：
 - 在终端输入
-- windonws: python game2.py
-- linux: python3 game2.py
+- windonws: 
+- python game2.py
+- linux: 
+- python3 game2.py
