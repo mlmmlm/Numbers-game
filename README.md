@@ -4,7 +4,8 @@
 可以有效的锻炼儿童对数字大小的判断能力。
 ## 使用教程：
 - 第一步：
-- 安装python环境(此步不会请百度）
+- 安装python环境
+- 下载链接 [获取地址](https://my.telegram.org/apps) 不会请Google。
 - 第二步：
 - 在终端输入
 ### windonws: 
