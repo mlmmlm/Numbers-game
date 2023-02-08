@@ -25,5 +25,5 @@ chmod +x game2
 ```
 - 第二步
 ```
-./game
+./game2
 ```
