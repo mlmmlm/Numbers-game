@@ -15,3 +15,4 @@ python game2.py
 ```
 python3 game2.py
 ```
+# 小白请直接下载可执行文件双击运行
