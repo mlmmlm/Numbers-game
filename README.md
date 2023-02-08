@@ -16,3 +16,4 @@ python game2.py
 python3 game2.py
 ```
 # 小白请直接下载可执行文件双击运行
+- 获取链接[下载路径](https://github.com/mlmmlm/Numbers-game/releases)
