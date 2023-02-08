@@ -17,3 +17,13 @@ python3 game2.py
 ```
 # 小白请直接下载可执行文件双击运行
 - 获取链接[下载路径](https://github.com/mlmmlm/Numbers-game/releases)
+## Windows用户请直接下载可执行文件双击运行
+## Linux用户下载可执行文件后
+- 第一步赋予可执行权限
+```
+chmod +x game2
+```
+- 第二步
+```
+./game
+```
